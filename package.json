@@ -1,6 +1,6 @@
 {
   "name": "manrueda",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Peronal npm card for Manuel Rueda (@manrueda)",
   "main": "bin/index.js",
   "repository": {
