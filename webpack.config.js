@@ -31,7 +31,7 @@ const base = {
   }
 };
 
-const node6 = Object.assign({}, base, {
+const node8 = Object.assign({}, base, {
   module: {
     rules: [
       {
@@ -42,10 +42,10 @@ const node6 = Object.assign({}, base, {
     ]
   },
   output: {
-    filename: `node6-[name]`,
+    filename: `node8-[name]`,
     path: Path.resolve("dist"),
     libraryTarget: "commonjs2"
   }
 });
 
-module.exports = [base, node6];
+module.exports = [base, node8];
