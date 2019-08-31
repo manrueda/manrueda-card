@@ -47,8 +47,8 @@
       "npm": "manrueda",
       "github": "manrueda",
       "linkedin": "manrueda",
-      "web": "https://manrueda.com/",
-      "work": "Senior Software Engineer"
+      "web": "https://manrueda.dev/",
+      "work": "Associate Architect"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
